@@ -9,7 +9,6 @@ Junior Full Stack developer, passionate about full-stack web apps.
 - ⚡ Fun fact: Optimized apps for 40% faster loads, integrated Stripe/ORMs
 - 🌱 Currently exploring AI integration in web apps
 - 📫 Open to remote internships/junior roles: [LinkedIn](https://linkedin.com/in/seetaram-v)
-- [ram@devportfolio.com](mailto:seetaram.vannemreddi@gmail.com)
 
 
 ### 🛠️ Tech Stack
