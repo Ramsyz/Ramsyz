@@ -8,8 +8,7 @@ Junior Full Stack developer, passionate about full-stack web apps.
 - 🔭 Building/deploying with **React**, **Next.js**, **Node.js**, **PostgreSQL**
 - ⚡ Fun fact: Optimized apps for 40% faster loads, integrated Stripe/ORMs
 - 🌱 Currently exploring AI integration in web apps
-- 📫 Open to remote internships/junior roles: [LinkedIn](www.linkedin.com/in/
-/seetaram-v)
+- 📫 Open to remote internships/junior roles: [LinkedIn](www.linkedin.com/in/seetaram-v)
 
 
 ### 🛠️ Tech Stack
