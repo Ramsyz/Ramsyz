@@ -2,14 +2,28 @@
 <img src="https://media.giphy.com/media/v1/Youtube/3o7btLavkBP5cuXzHc/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👋 Hey there
-Junior Full Stack developer, passionate about full-stack web apps.
+# Hi, I'm Ram 👋
 
-- 🔭 Building/deploying with **React**, **Next.js**, **Node.js**, **PostgreSQL**
-- ⚡ Fun fact: Optimized apps for 40% faster loads, integrated Stripe/ORMs
-- 🌱 Currently exploring AI integration in web apps
-- 📫 Open to remote internships/junior roles: [LinkedIn](https://linkedin.com/in/seetaram-v)
+Junior Full Stack Developer building production-oriented web applications with React, Next.js, Node.js, and PostgreSQL.
 
+I’ve been developing and deploying full-stack projects on Vercel and Netlify, focusing on clean architecture, REST API design, authentication systems, and scalable database structures.
+
+### 🔧 Tech Stack
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express
+- Database: PostgreSQL (ORM-based schema design)
+- Payments: Stripe (Test Mode Integration)
+- Deployment: Vercel, Netlify
+- Version Control: Git & GitHub
+
+### 🚀 What I Focus On
+- Writing clean, modular code
+- Building RESTful APIs
+- Implementing authentication & CRUD workflows
+- Performance optimization in Next.js
+- Preparing to integrate AI into full-stack applications
+
+Open to Remote Internships and Junior Full Stack opportunities: [LinkedIn](https://linkedin.com/in/seetaram-v)
 
 ### 🛠️ Tech Stack
 <div align="center">
@@ -21,4 +35,4 @@ Junior Full Stack developer, passionate about full-stack web apps.
 </div>
 
 
-Let's connect! Open to feedback, collabs, or remote opportunities. 🚀
+Let's build something impactful.! Open to feedback, collabs, or remote opportunities. 
