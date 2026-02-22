@@ -35,4 +35,5 @@ Open to Remote Internships and Junior Full Stack opportunities: [LinkedIn](https
 </div>
 
 
+
 Let's build something impactful.! Open to feedback, collabs, or remote opportunities. 
