@@ -1,23 +1,31 @@
 <div align="center">
-<img src="https://media.giphy.com/media/.../giphy.gif" width="600" height="300"/>  <!-- Coding GIF from Giphy -->
+<img src="https://media.giphy.com/media/v1/Youtube/3o7btLavkBP5cuXzHc/giphy.gif" width="600" height="300"/>
 </div>
 
 ### 👋 Hey there
 Junior Full Stack developer, passionate about full-stack web apps.
 
 - 🔭 Building/deploying with **React**, **Next.js**, **Node.js**, **PostgreSQL**
-- ⚡ Optimized apps (40% faster loads), integrated Stripe/ORMs
-- 🌱 Exploring AI patterns
-- 📫 Open to remote roles: [LinkedIn](your-linkedin-url)
+- ⚡ Fun fact: Optimized apps for 40% faster loads, integrated Stripe/ORMs
+- 🌱 Currently exploring AI integration in web apps
+- 📫 Open to remote internships/junior roles: [LinkedIn](www.linkedin.com/in/
+/seetaram-v)
+
 
 ### 🛠️ Tech Stack
-<img src="https://github.com/devicons/devicon/.../react-original.svg" width="40"/> ... (add React, Next.js, Node, etc.)[page:2]
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/> <!-- Add Vercel/Netlify -->
+</div>
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)[page:2]
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180"/>
+</div>
 
-### 🔥 Featured Projects
-- **Project 1**: Real-time order tracking (Vercel deploy) [link][cite:2]
-- **Project 2**: ... (add 3-4 with metrics/stars)
 
-Let's connect! 🚀
+Let's connect! Open to feedback, collabs, or remote opportunities. 🚀
