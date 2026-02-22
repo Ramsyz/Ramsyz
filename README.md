@@ -21,11 +21,5 @@ Junior Full Stack developer, passionate about full-stack web apps.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/> <!-- Add Vercel/Netlify -->
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180"/>
-</div>
-
 
 Let's connect! Open to feedback, collabs, or remote opportunities. 🚀
